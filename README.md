@@ -12,6 +12,7 @@ The datasets used for this analysis were co2-mm-mlo_csv, fossil-fuel-co2-emissio
 ### temperature_vs_emissions.py
 
 This scripts morged the separate data sets from CO2 emssisions and Global Temperatures measured by NASA (GISTEMP and GCAP). 
+The output can be viewed in temp_vs_emissions.png file. 
 
 
 

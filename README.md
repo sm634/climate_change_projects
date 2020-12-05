@@ -1,4 +1,4 @@
-# climate_change_projects
+# Climate_Change_Projects
 
 #### Initial_project.py
 A set of data projects related to the theme of climate change. It will look at data on climate change and analyse them to find trends and patterns.

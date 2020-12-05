@@ -11,8 +11,8 @@ The datasets used for this analysis were co2-mm-mlo_csv, fossil-fuel-co2-emissio
 
 #### Temperature_vs_emissions.py
 
-This scripts morged the separate data sets from CO2 emssisions and Global Temperatures measured by NASA (GISTEMP and GCAP). 
-The output can be viewed in temp_vs_emissions.png file. 
+This script merged the separate data sets from CO2 emssisions and Global Temperatures measured by NASA (GISTEMP and GCAP) to look at their correlations. 
+The output can be viewed in temp_vs_emissions.png file. The pearson_correlation shown on the graphs was 0.95, indicating (if the temperature and emissions data is not noisy) that there is a very strong correlation between an increase of temperature with emissions.
 
 
 
